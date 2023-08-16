@@ -1,14 +1,8 @@
-# Hey there, I'm [Your Name]! 👋
+# Hey, I'm Rohan! 👋
 
 ![Header](https://your-image-url.com/header-image.png)
 
 I'm a Computer Science student at the University of Texas at Dallas passionate about coding and technology.
-
-- 🔭 I’m currently working on enhancing my coding skills.
-- 🌱 I’m learning data structures, algorithms, and web development.
-- 💬 Ask me about programming, tech, or anything related to CS!
-- 📫 You can reach me at [your.email@example.com](mailto:your.email@example.com).
-- ⚡ Fun fact: I love exploring new programming languages.
 
 ## Projects
 
