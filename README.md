@@ -1,7 +1,5 @@
 # Hey, I'm Rohan! 👋
 
-![Header](https://your-image-url.com/header-image.png)
-
 I'm a Computer Science student at the University of Texas at Dallas passionate about coding and technology.
 
 ## Projects
