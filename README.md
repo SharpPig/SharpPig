@@ -1,6 +1,6 @@
-# Hey, I'm Rohan! 👋
+# Hey, I'm Rohan Jakkal! 👋
 
-I'm a Computer Science student at the University of Texas at Dallas passionate about coding and technology.
+##📚 I'm a Computer Science student at the University of Texas at Dallas
 
 ## Technologies
 
@@ -11,5 +11,5 @@ I'm a Computer Science student at the University of Texas at Dallas passionate a
 - Tools: Git, VS Code, PKI
 
 ## Connect with Me!
-
+## 📫 You can reach me at rohanjakkal@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohan-jakkal/)
