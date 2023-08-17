@@ -11,5 +11,5 @@
 - Tools: Git, VS Code, PKI
 
 ## Connect with Me!
-## 📫 You can reach me at rohanjakkal@gmail.com
+### 📫 You can reach me at rohanjakkal@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohan-jakkal/)
