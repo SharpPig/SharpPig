@@ -1,6 +1,6 @@
 # Hey, I'm Rohan Jakkal! 👋
 
-##📚 I'm a Computer Science student at the University of Texas at Dallas
+## 📚 I'm a Computer Science student at the University of Texas at Dallas
 
 ## Technologies
 
