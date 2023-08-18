@@ -1,15 +1,21 @@
-# Hey, I'm Rohan Jakkal! 👋
+# Hello, I'm Rohan Jakkal! 👋
 
-## 📚 I'm a Computer Science student at the University of Texas at Dallas
+## 🎓 Computer Science Student at the University of Texas at Dallas
 
-## Technologies
+🌟 Welcome to my GitHub profile! I'm passionate about all things tech, and I'm currently pursuing my Computer Science degree at the University of Texas at Dallas. Here's a glimpse into my world of coding and innovation.
 
-- Languages: Java, C++, Python, Swift, Kotlin, Lua, Linux Shell Script
-- Skills: Entrepreneurship, Leadership, DevOps, Azure, AWS, Docker, Kubernetes, Helm, RabbitMQ, GraphQL, Django
-- Frameworks: React, Node.js, Spring Framework
-- Databases: MySQL, MongoDB, PostgresQL
-- Tools: Git, VS Code, PKI
+## 💼 Technologies & Skills
 
-## Connect with Me!
-### 📫 You can reach me at rohan@rohan.rocks
+- **Languages:** Java, C++, Python, Swift, Kotlin, Lua, Linux Shell Script
+- **Skills:** Entrepreneurship, Leadership, DevOps, Azure, AWS, Docker, Kubernetes, Helm, RabbitMQ, GraphQL, Django
+- **Frameworks:** React, Node.js, Spring Framework
+- **Databases:** MySQL, MongoDB, PostgresQL
+- **Tools:** Git, VS Code, PKI
+
+## 🤝 Let's Connect!
+
+📫 Feel free to reach out to me via email at rohan@rohan.rocks or connect with me on LinkedIn:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohan-jakkal/)
+
+I'm always excited to discuss tech, collaboration opportunities, or just have a friendly chat. Don't hesitate to get in touch!
