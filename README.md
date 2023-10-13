@@ -7,7 +7,7 @@
 ## 💼 Technologies & Skills
 
 - **Languages:** Java, C++, Python, Swift, Kotlin, Lua, Linux Shell Script
-- **Skills:** Entrepreneurship, Leadership, DevOps, Azure, AWS, Docker, Kubernetes, Helm, RabbitMQ, GraphQL, Django
+- **Skills:** Entrepreneurship, Leadership, DevOps, Azure, AWS, Docker, Kubernetes, Helm, RabbitMQ, GraphQL
 - **Frameworks:** React, Node.js, Spring Framework
 - **Databases:** MySQL, MongoDB, PostgresQL
 - **Tools:** Git, VS Code, PKI
