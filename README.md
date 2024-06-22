@@ -18,4 +18,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohan-jakkal/)
 
-I'm always excited to discuss tech, collaboration opportunities, or just have a friendly chat. Don't hesitate to get in touch!
+I'm always excited to discuss tech, collaboration opportunities, or just have a friendly chat!
