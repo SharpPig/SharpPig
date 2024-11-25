@@ -1,4 +1,4 @@
-# Hello, I'm Rohan Jakkal! 👋
+# Hello, I'm Rohan! 👋
 
 ## 🎓 Computer Science Student at the University of Texas at Dallas
 
